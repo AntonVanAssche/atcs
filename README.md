@@ -3,7 +3,7 @@
       Automatic Temperature Control System
    </h1>
    <p align="center">
-      Since <a href="https://github.com/AntonVanAssche/wittimr/issues/1">someone said</a> that 28 °C is <strong>TO HOT</strong>, I made a automatic temperture control system.
+      Since <a href="https://github.com/AntonVanAssche/wittimr/issues/1">someone said</a> that 28 °C is <strong>TOO HOT</strong>, I made a automatic temperture control system.
       It measures the current temperature and turns on a fan when it rises above the desired temperature (controlled using a rotary encoder).
    </p>
 </div>
